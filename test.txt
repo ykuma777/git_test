@@ -6,3 +6,4 @@ from_pc1_v2
 from_pc1_v3
 from_pc2_v3
 from_main_branch　これはメインで作っているよ！
+from_feature_branch 今はブランチで作っているよ！
